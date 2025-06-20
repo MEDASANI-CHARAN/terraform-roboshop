@@ -1,0 +1,12 @@
+[submodule "02-terraform-ec2-test"]
+	path = 02-terraform-ec2-test
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-ec2-test.git
+[submodule "01-terraform-aws-ec2-module"]
+	path = 01-terraform-aws-ec2-module
+	url = https://github.com/MEDASANI-CHARAN/01-terraform-aws-ec2-module.git
+[submodule "03-modules/01-terraform-aws-ec2-module"]
+	path = 03-modules/01-terraform-aws-ec2-module
+	url = https://github.com/MEDASANI-CHARAN/01-terraform-aws-ec2-module.git
+[submodule "03-modules/02-terraform-ec2-test"]
+	path = 03-modules/02-terraform-ec2-test
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-ec2-test.git
