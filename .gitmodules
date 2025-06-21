@@ -1,0 +1,39 @@
+[submodule "modules1/01-terraform-aws-ec2"]
+	path = modules1/01-terraform-aws-ec2
+	url = https://github.com/MEDASANI-CHARAN/terraform-aws-ec2.git
+[submodule "03-modules/01-terraform-aws-ec2-module"]
+	path = 03-modules/01-terraform-aws-ec2-module
+	url = https://github.com/MEDASANI-CHARAN/01-terraform-aws-ec2-module.git
+[submodule "03-modules/03-modules/01-terraform-aws-ec2-module"]
+	path = 03-modules/03-modules/01-terraform-aws-ec2-module
+	url = https://github.com/MEDASANI-CHARAN/terraform-aws-ec2.git
+[submodule "03-modules/02-terraform-ec2-test"]
+	path = 03-modules/02-terraform-ec2-test
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-ec2-test.git
+[submodule "01-terraform-concepts"]
+	path = 01-terraform-concepts
+	url = https://github.com/MEDASANI-CHARAN/01-terraform-concepts.git
+[submodule "03-modules/02-terraform-ec2-test-backup"]
+	path = 03-modules/02-terraform-ec2-test-backup
+	url = https://github.com/MEDASANI-CHARAN/03-modules.git
+[submodule "03-modules"]
+	path = 03-modules
+	url = https://github.com/MEDASANI-CHARAN/03-modules.git
+[submodule "02-terraform-multi-env/02-workspaces"]
+	path = 02-terraform-multi-env/02-workspaces
+	url = https://github.com/MEDASANI-CHARAN/02-workspaces.git
+[submodule "02-terraform-multi-env/01-tfvars"]
+	path = 02-terraform-multi-env/01-tfvars
+	url = https://github.com/MEDASANI-CHARAN/01-tfvars.git
+[submodule "01-terraform-aws-ec2-module"]
+	path = 01-terraform-aws-ec2-module
+	url = https://github.com/MEDASANI-CHARAN/01-terraform-aws-ec2-module.git
+[submodule "02-terraform-ec2-test"]
+	path = 02-terraform-ec2-test
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-ec2-test.git
+[submodule "04-aws-vpc/01-terraform-aws-vpc"]
+	path = 04-aws-vpc/01-terraform-aws-vpc
+	url = https://github.com/MEDASANI-CHARAN/01-terraform-aws-vpc.git
+[submodule "04-aws-vpc/02-terraform-vpc-test"]
+	path = 04-aws-vpc/02-terraform-vpc-test
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-vpc-test.git
