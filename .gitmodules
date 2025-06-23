@@ -37,3 +37,9 @@
 [submodule "04-aws-vpc/02-terraform-vpc-test"]
 	path = 04-aws-vpc/02-terraform-vpc-test
 	url = https://github.com/MEDASANI-CHARAN/02-terraform-vpc-test.git
+[submodule "05-roboshop-project/01-roboshop-infra-dev"]
+	path = 05-roboshop-project/01-roboshop-infra-dev
+	url = https://github.com/MEDASANI-CHARAN/01-roboshop-infra-dev.git
+[submodule "05-roboshop-project/02-terraform-aws-sg-module"]
+	path = 05-roboshop-project/02-terraform-aws-sg-module
+	url = https://github.com/MEDASANI-CHARAN/02-terraform-aws-sg-module.git
