@@ -43,3 +43,6 @@
 [submodule "05-roboshop-project/02-terraform-aws-sg-module"]
 	path = 05-roboshop-project/02-terraform-aws-sg-module
 	url = https://github.com/MEDASANI-CHARAN/02-terraform-aws-sg-module.git
+[submodule "03-terraform-aws-roboshop"]
+	path = 03-terraform-aws-roboshop
+	url = https://github.com/MEDASANI-CHARAN/03-terraform-aws-roboshop.git
